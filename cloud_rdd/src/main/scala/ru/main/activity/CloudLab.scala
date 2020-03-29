@@ -6,7 +6,7 @@ import org.apache.spark.sql.SparkSession
 object CloudLab {
   // разбить текст на слова и удалить пустые строки
   def readRDD (path: String, spark: SparkSession)= {
-    spark.sparkContext.textFile(path).map(x=> x.trim.replaceAll(" +", " ")).filter(x=> !x.equals("")).flatMap(x => x.trim.replaceAll(" +", " ").split(" "))
+    spark.sparkContext.textFile(path).map(x=> x.trim.replaceAll(" +", " ")).filter(x=> !x.equals("")).flatMap(x => x.split(" "))
   }
   // посчитать количество вхождений заданного слова;
   def countWord(word: String, rdd: RDD[String]) = {
