@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="07a7c78d-9401-41a0-a674-ee3d80415f81" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Object" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Znuc1lULAJsFmuSQvYlLvum2nL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="ScalaTest.WordCount.testing the work functions">
+    <configuration name="WordCount" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="cloud_rdd" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="testKind" value="Class" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="jrePath" />
+      <option name="searchTest" value="Across module dependencies" />
+      <option name="showProgressMessages" value="true" />
+      <option name="testArgs" value="" />
+      <option name="testClassPath" value="tests.playground.WordCount" />
+      <option name="useSbt" value="false" />
+      <option name="useUiWithSbt" value="false" />
+      <option name="workingDirectory" value="D:\intellij projects\cloud_rdd" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordCount.testing the work functions" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="cloud_rdd" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="testKind" value="Class" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="jrePath" />
+      <option name="searchTest" value="Across module dependencies" />
+      <option name="showProgressMessages" value="true" />
+      <option name="testArgs" value="" />
+      <option name="testClassPath" value="tests.playground.WordCount" />
+      <option name="testName" value="testing the work functions" />
+      <option name="useSbt" value="false" />
+      <option name="useUiWithSbt" value="false" />
+      <option name="workingDirectory" value="D:\intellij projects\cloud_rdd" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="ScalaTest.WordCount.testing the work functions" />
+        <item itemvalue="ScalaTest.WordCount" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="D:/alick_scala/bigdata-developers-labs" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="07a7c78d-9401-41a0-a674-ee3d80415f81" name="Default Changelist" comment="" />
+      <created>1585487254853</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585487254853</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="722" y="157" key="#Project_Structure" timestamp="1585487806887">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="722" y="157" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1585487806887" />
+    <state x="945" y="254" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1585488140730">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="945" y="254" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585488140730" />
+    <state x="891" y="302" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585487692855">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="891" y="302" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1585487692855" />
+    <state width="1071" height="67" key="GridCell.Tab.0.bottom" timestamp="1585494036316">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1071" height="67" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585494036316" />
+    <state width="1071" height="67" key="GridCell.Tab.0.center" timestamp="1585494036316">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1071" height="67" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585494036316" />
+    <state width="1071" height="67" key="GridCell.Tab.0.left" timestamp="1585494036316">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1071" height="67" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585494036316" />
+    <state width="1071" height="67" key="GridCell.Tab.0.right" timestamp="1585494036316">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1071" height="67" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585494036316" />
+  </component>
+</project>
